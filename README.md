@@ -1,6 +1,6 @@
 # Advanced Mining Profitability Calculator
 
-This script calculates the profitability of mining Spectre (SPR) by estimating rewards and electricity costs. Users can input their details manually or use credentials stored in a `.env` file to fetch data from Hive OS.
+This script calculates the profitability of mining [Spectre (SPR)](https://spectre-network.org) by estimating rewards and electricity costs. Users can input their details manually or use credentials stored in a `.env` file to fetch data from Hive OS.
 
 ## Features
 
