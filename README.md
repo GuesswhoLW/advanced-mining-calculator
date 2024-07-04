@@ -39,7 +39,15 @@ This script calculates the profitability of mining Spectre (SPR) by estimating r
     HIVE_OS_API_KEY=your_hive_os_api_key
     HIVE_OS_FARM_ID=your_hive_os_farm_id    
 
-5. Run the script:
+5. Create a .gitignore file to ensure the .env file is not uploaded to GitHub:
+   ```sh
+   touch .gitignore
+
+6. Add the following line to the .gitignore file:
+    ```sh
+    .env
+    
+7. Run the script:
    ```sh
    python advanced_calculator.py
 
@@ -68,7 +76,15 @@ This script calculates the profitability of mining Spectre (SPR) by estimating r
    HIVE_OS_API_KEY=your_hive_os_api_key
    HIVE_OS_FARM_ID=your_hive_os_farm_id
 
-6. Run the script:
+6. Create a .gitignore file to ensure the .env file is not uploaded to GitHub:
+   ```sh
+   touch .gitignore
+
+7. Add the following line to the .gitignore file:
+    ```sh
+    .env
+    
+8. Run the script:
    ```sh
    python3 advanced_calculator.py
 
