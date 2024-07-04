@@ -132,7 +132,7 @@ This script calculates the profitability of mining Spectre (SPR) by estimating r
 
 ## License
 
-  This project is licensed under the MIT License. See the LICENSE file for details.
+  This project is licensed under the MIT License. See the [LICENSE](/licence) file for details.
 
 
 ### Requirements File (`requirements.txt`)
