@@ -134,12 +134,6 @@ This script calculates the profitability of mining [Spectre (SPR)](https://spect
 
   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
-### Requirements File [(`requirements.txt`)](requirements.txt)
-7. Add the following line to the .gitignore file:
-    ```sh
-    .env
-
 ## Support
   If you find this small project helpful and would like to support my work and future projects, feel free to donate a cup of coffee to my Spectre wallet:
   ```sh
