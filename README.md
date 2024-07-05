@@ -60,7 +60,7 @@ This script calculates the profitability of mining [Spectre (SPR)](https://spect
    
 2. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/advanced-mining-calculator.git
+   git clone https://github.com/GuesswhoLW/advanced-mining-calculator.git
    cd advanced-mining-calculator
 
 3. Install required libraries:
