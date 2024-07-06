@@ -84,7 +84,7 @@ def calculate_estimated_rewards(network_hashrate, my_hashrate, block_reward, spr
     else:
         my_portion = (my_hashrate * 1e-3) / network_hashrate  # Convert my_hashrate from KH/s to MH/s for comparison
 
-    daily_network_reward = 1015200  # Correct total SPR mined per day
+    daily_network_reward = block_reward * 86400  # Correct total SPR mined per day
     daily_my_reward = daily_network_reward * my_portion
     
     estimated_hourly_spr = daily_my_reward / 24
