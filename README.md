@@ -137,4 +137,4 @@ This script calculates the profitability of mining [Spectre (SPR)](https://spect
 ## Support
   If you find this small project helpful and would like to support my work and future projects, feel free to donate a cup of coffee to my Spectre wallet:
   ```sh
-    spectre:qr7nl6z8nc8gmagarmzrnaw90xu2xxzzn8qtg2wql967njendf5eqeqdnmhuc
+  spectre:qr7nl6z8nc8gmagarmzrnaw90xu2xxzzn8qtg2wql967njendf5eqeqdnmhuc
